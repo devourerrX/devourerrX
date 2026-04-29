@@ -2,5 +2,6 @@
   <img src="banner.png" />
 </p>
 
-## Hi there 👋
-
+                                     ## Hi 👋 , I am Tanmay Chhipa
+ <br>
+                              A passionate flutter developer from jaipur(india)
